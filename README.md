@@ -6,9 +6,9 @@
 
  - 🔭 I’m currently working on [Landing Page - Adote um Bichinho RJ](https://github.com/FRgama/Projeto1)
 
-- 💬 Ask me about **HTML, CSS and some design stuff!**
+- 💬 Ask me about: **HTML, CSS and some design stuff!**
 
-- 📫 How to reach me **beatriz2005ss@gmail.com**
+- 📫 How to reach me: **beatriz2005ss@gmail.com**
 
 - ~fun fact: **I don't know what i'm doing here**
 
