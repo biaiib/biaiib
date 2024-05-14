@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **beatriz2005ss@gmail.com**
 
-- ⚡ Fun fact **I don't know what i'm doing here!**
+- ~fun fact: **I don't know what i'm doing here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
