@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Beatriz, but you can call me Bia.</h1>
 <h3 align="center">A Web developer and Computer Science student from Brazil, passionate about technology, crafting her very first projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biaiib&label=Profile%20views&color=0e75b6&style=flat" alt="biaiib" /> </p>
-
 - 🔭 I’m currently working on [Landing Page - Adote um Bichinho RJ](https://github.com/FRgama/Projeto1)
 
 - 🤝 I’m looking for help with [React App](https://react.dev)
