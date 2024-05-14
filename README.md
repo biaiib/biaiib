@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/beatriz-d-177976252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-d-177976252/" height="30" width="40" /></a>
 <a href="https://instagram.com/biaib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biaib_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/biaiib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biaiib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCiOjJDtn_ANUn76c3lgNNRw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biaiib" height="30" width="40" /></a>
 <a href="https://discord.gg/biaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="biaib" height="30" width="40" /></a>
 </p>
 
