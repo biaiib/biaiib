@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi, call me Bia! ☆</h2>
-<p align="left">A Web developer and Computer Science student from Brazil crafting her very first projects.</p>
+<p align="left">A Computer Science student from Brazil crafting her very first projects.</p>
 
 ###
 
